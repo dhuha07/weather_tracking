@@ -7,6 +7,8 @@ Proyek ini dikerjakan oleh tiga orang anggota dari Universitas Muhammadiyah Mage
 Project Manager: Bagas Dwi Harmianto
 UI/UX Designer: Dhuha Sampurna
 Developer: Marsha Rafi Perdana
+
+
 Daftar API yang Digunakan
 REQRES.IN - Untuk verifikasi login
 Open Weather Map - Untuk API cuaca
