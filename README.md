@@ -1,16 +1,21 @@
-# myapp
+Weather_Tracking
+Proyek Flutter baru.
 
-A new Flutter project.
+Memulai
+Proyek ini adalah titik awal untuk aplikasi Flutter.
 
-## Getting Started
+Beberapa sumber daya untuk memulai jika ini adalah proyek Flutter pertama Anda:
 
-This project is a starting point for a Flutter application.
+Lab: Tulis aplikasi Flutter pertama Anda
+Cookbook: Contoh Flutter yang Berguna
+Untuk bantuan memulai pengembangan Flutter, lihat dokumentasi online, yang menawarkan tutorial, contoh, panduan tentang pengembangan seluler, dan referensi API lengkap.
 
-A few resources to get you started if this is your first Flutter project:
+Deskripsi Singkat
+Aplikasi Weather_Tracking adalah aplikasi yang menggunakan bahasa pemrograman Dart, yang bertujuan untuk membantu pengguna dalam melacak cuaca di kota atau negara yang akan dituju. Selain itu, aplikasi ini juga dapat menampilkan rekomendasi peralatan apa saja yang harus dibawa oleh pengguna berdasarkan cuaca di lokasi tersebut.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tim Pengembang
+Proyek ini dikerjakan oleh tiga orang anggota dari Universitas Muhammadiyah Magelang:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project Manager: Bagas Dwi Harmianto
+UI/UX Designer: Dhuha Sampurna
+Developer: Marsha Rafi Perdana
